@@ -1,7 +1,5 @@
 # 🌟 Bienvenido a ARTEMIS CLUB 🌟
 
-![Artemis Club Logo]([https://artemisclub.es/logo.png](https://artemisclub.es/assets/img/ArtemisClubLogo.png))
-
 ## 🎯 Nuestra Misión
 Buscamos a jóvenes talentos apasionados por la tecnología para crear la mayor comunidad open-source de España.
 
