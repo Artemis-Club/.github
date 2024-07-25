@@ -15,7 +15,7 @@ Participa en desafíos emocionantes, conoce a otros apasionados por la programac
 ## 🎓 Formaciones
 Únete a nuestras formaciones impartidas por profesionales de la industria que comparten su experiencia y habilidades.
 
-## 🚀 Producto Principal: Codethon
+## 🚀 Evento Principal: Codethon
 Codethon es nuestro evento principal, donde podrás demostrar tus habilidades de programación en desafíos emocionantes. Además, también organizamos gamejams, charlas, talleres y mucho más.
 
 ## 🔗 Conéctate con nosotros
